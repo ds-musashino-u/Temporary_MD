@@ -6,6 +6,7 @@ Media creation &amp; Data design by Nakamura
 - MUDS tools
 - Python
 - Processing
+- Google Colaboratory
 
 ### options
 - Deep Learning with Python
