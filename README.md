@@ -30,7 +30,7 @@
 - seaborn
 - Jupyter
 
-### オプション
+### オプション（Advan)
 - venvでpython仮想環境
   - Visual Studio Code
 - Deep Learning with Python
