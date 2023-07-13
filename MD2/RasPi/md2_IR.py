@@ -16,10 +16,10 @@ def loop():
         dt_string = now.strftime("%Y/%m/%d %H:%M:%S")
         if pir_val==GPIO.HIGH:
             print('Detected')
-            data.append (dt_string + 'Detected')
+            data.append (dt_string + ',Detected')
         else :
             print('Not Detected')
-            data.append (dt_string + 'Not Detected')
+            data.append (dt_string + ',Not Detected')
         time.sleep(1)
 
 def destroy():
